@@ -98,7 +98,34 @@ namespace DataParser
                     DataStruct.EntityProperty ent = parseForEntityProperty(eFieldValue);
                     json = serializer.Serialize(ent);
                     break;
-
+                case 28:
+                    DataStruct.AddLiveEmergency emerg = parseForAddLiveEmergency(eFieldValue);
+                    json = serializer.Serialize(emerg);
+                    break;
+                case 29:
+                    DataStruct.AddLiveInfection infect = parseForAddLiveInfection(eFieldValue);
+                    json = serializer.Serialize(infect);
+                    break;
+                case 30:
+                    DataStruct.AddLiveSymptom sympt = parseForAddLiveSymptom(eFieldValue);
+                    json = serializer.Serialize(sympt);
+                    break;
+                case 34:
+                    DataStruct.GenericEmergency genericEmerg = parseForGenericEmergency(eFieldValue);
+                    json = serializer.Serialize(genericEmerg);
+                    break;
+                case 35:
+                    DataStruct.WeatherChange weather = parseForWeatherChange(eFieldValue);
+                    json = serializer.Serialize(weather);
+                    break;
+                case 36:
+                    DataStruct.GenericEmergencyEvent genericEmergEvent = parseForGenericEmergencyEvent(eFieldValue);
+                    json = serializer.Serialize(genericEmergEvent);
+                    break;
+                case 55:
+                    DataStruct.NewDetectedChemicalAmount newDetected = parseForNewDetectedChemicalAmount(eFieldValue);
+                    json = serializer.Serialize(newDetected);
+                    break;
                 default:
                     Console.WriteLine("No parser for that action log type");
                     return null;
