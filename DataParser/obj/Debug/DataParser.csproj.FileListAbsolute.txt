@@ -1,0 +1,6 @@
+C:\Users\SELAB\Documents\Visual Studio 2013\Projects\DataParser\DataParser\obj\Debug\DataParser.csprojResolveAssemblyReference.cache
+C:\Users\SELAB\Documents\Visual Studio 2013\Projects\DataParser\DataParser\bin\Debug\DataParser.exe.config
+C:\Users\SELAB\Documents\Visual Studio 2013\Projects\DataParser\DataParser\bin\Debug\DataParser.exe
+C:\Users\SELAB\Documents\Visual Studio 2013\Projects\DataParser\DataParser\bin\Debug\DataParser.pdb
+C:\Users\SELAB\Documents\Visual Studio 2013\Projects\DataParser\DataParser\obj\Debug\DataParser.exe
+C:\Users\SELAB\Documents\Visual Studio 2013\Projects\DataParser\DataParser\obj\Debug\DataParser.pdb

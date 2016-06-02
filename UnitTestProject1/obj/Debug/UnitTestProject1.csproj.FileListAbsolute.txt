@@ -1,0 +1,7 @@
+C:\Users\SELAB\Documents\Visual Studio 2013\Projects\DataParser\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\SELAB\Documents\Visual Studio 2013\Projects\DataParser\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\SELAB\Documents\Visual Studio 2013\Projects\DataParser\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\SELAB\Documents\Visual Studio 2013\Projects\DataParser\UnitTestProject1\bin\Debug\DataParser.exe
+C:\Users\SELAB\Documents\Visual Studio 2013\Projects\DataParser\UnitTestProject1\bin\Debug\DataParser.pdb
+C:\Users\SELAB\Documents\Visual Studio 2013\Projects\DataParser\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\SELAB\Documents\Visual Studio 2013\Projects\DataParser\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
