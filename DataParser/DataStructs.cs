@@ -227,5 +227,15 @@ namespace DataParser
                 Visible = v;
             }
         }
+
+        public struct NewDetectedChemicalAmount
+        {
+            public double value;
+
+            public NewDetectedChemicalAmount(double v)
+            {
+                value = v;
+            }
+        }
     }
 }

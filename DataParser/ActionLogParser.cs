@@ -346,5 +346,17 @@ namespace DataParser
 
             return genericEmergencyEvent;
         }
+
+        public DataStruct.NewDetectedChemicalAmount parseForNewDetectedChemicalAmount(string newDetectedChemicalAmountString)
+        {
+            if (newDetectedChemicalAmountString == null || newDetectedChemicalAmountString == "")
+                return new DataStruct.NewDetectedChemicalAmount() { value = -1 };
+
+            DataStruct.NewDetectedChemicalAmount newDetectedChemicalAmount = new DataStruct.NewDetectedChemicalAmount();
+
+            newDetectedChemicalAmount.value = double.Parse(newDetectedChemicalAmountString);
+
+            return newDetectedChemicalAmount;
+        }
     }
 }

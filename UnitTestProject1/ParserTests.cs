@@ -555,6 +555,42 @@ namespace UnitTestProject1
         }
         #endregion
 
+        #region parseNewDetectedChemicalAmount
+        [TestMethod]
+        public void Test_parseNewDetectedChemicalAmount()
+        {
+            //Arrange
+            string newDetectedChemicalAmountString = "0";
+            DataStruct.NewDetectedChemicalAmount check = new DataStruct.NewDetectedChemicalAmount(0);
+            //Act
+            DataStruct.NewDetectedChemicalAmount test = parser.parseForNewDetectedChemicalAmount(newDetectedChemicalAmountString);
+            //Assert
+            Assert.AreEqual(check.value, test.value, "Failed to Check value");
+        }
+
+        [TestMethod]
+        public void TestNull_parseNewDetectedChemicalAmount()
+        {
+            //Arrange
+            string newDetectedChemicalAmountString = null;
+            //Act
+            DataStruct.NewDetectedChemicalAmount test = parser.parseForNewDetectedChemicalAmount(newDetectedChemicalAmountString);
+            //Assert
+            Assert.AreEqual(-1, test.value, "Failed to return -1 for when you input a null string");
+        }
+
+        [TestMethod]
+        public void TestEmpty_parseNewDetectedChemicalAmount()
+        {
+            //Arrange
+            string newDetectedChemicalAmountString = "";
+            //Act
+            DataStruct.NewDetectedChemicalAmount test = parser.parseForNewDetectedChemicalAmount(newDetectedChemicalAmountString);
+            //Assert
+            Assert.AreEqual(-1, test.value, "Failed to return -1 for when you input a null string");
+        }
+        #endregion
+
         [TestMethod]
         public void Test_ActionLogParser()
         {
