@@ -4,3 +4,9 @@ c:\Users\User\documents\visual studio 2013\Projects\NavBar\TrueNavBar\bin\TrueNa
 c:\Users\User\documents\visual studio 2013\Projects\NavBar\TrueNavBar\obj\Debug\TrueNavBar.csprojResolveAssemblyReference.cache
 c:\Users\User\documents\visual studio 2013\Projects\NavBar\TrueNavBar\obj\Debug\TrueNavBar.dll
 c:\Users\User\documents\visual studio 2013\Projects\NavBar\TrueNavBar\obj\Debug\TrueNavBar.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\DataParser\Parser Project\TrueNavBar\bin\TrueNavBar.dll.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\DataParser\Parser Project\TrueNavBar\bin\TrueNavBar.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\DataParser\Parser Project\TrueNavBar\bin\TrueNavBar.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\DataParser\Parser Project\TrueNavBar\obj\Debug\TrueNavBar.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\DataParser\Parser Project\TrueNavBar\obj\Debug\TrueNavBar.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\DataParser\Parser Project\TrueNavBar\obj\Debug\TrueNavBar.pdb
