@@ -1,0 +1,6 @@
+c:\Users\User\documents\visual studio 2013\Projects\NavBar\TrueNavBar\bin\TrueNavBar.dll.config
+c:\Users\User\documents\visual studio 2013\Projects\NavBar\TrueNavBar\bin\TrueNavBar.dll
+c:\Users\User\documents\visual studio 2013\Projects\NavBar\TrueNavBar\bin\TrueNavBar.pdb
+c:\Users\User\documents\visual studio 2013\Projects\NavBar\TrueNavBar\obj\Debug\TrueNavBar.csprojResolveAssemblyReference.cache
+c:\Users\User\documents\visual studio 2013\Projects\NavBar\TrueNavBar\obj\Debug\TrueNavBar.dll
+c:\Users\User\documents\visual studio 2013\Projects\NavBar\TrueNavBar\obj\Debug\TrueNavBar.pdb

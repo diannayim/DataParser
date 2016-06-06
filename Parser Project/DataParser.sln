@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataParser", "DataParser\Da
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{B8744425-70AA-42E9-9BB6-F98170995F60}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrueNavBar", "..\NavBar\TrueNavBar\TrueNavBar.csproj", "{84980D29-5931-4889-AF05-20F321BECA4D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{B8744425-70AA-42E9-9BB6-F98170995F60}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8744425-70AA-42E9-9BB6-F98170995F60}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8744425-70AA-42E9-9BB6-F98170995F60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84980D29-5931-4889-AF05-20F321BECA4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84980D29-5931-4889-AF05-20F321BECA4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84980D29-5931-4889-AF05-20F321BECA4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84980D29-5931-4889-AF05-20F321BECA4D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
